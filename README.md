@@ -1,0 +1,2 @@
+# ComputerVision-HandSign_Detection
+American Sign Language (ASL) is a complete, natural language that has the same linguistic properties as spoken languages, with grammar that differs from English. ASL is expressed by movements of the hands and face. It is the primary language of many North Americans who are deaf and hard of hearing and is used by some hearing people as well. This Computer Vision project is done by OpenCV Python Package. 
